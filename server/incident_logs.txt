@@ -1,0 +1,20 @@
+2024-08-11 20:25:53,859 Loaded active patterns: ['ip_addresses', 'username', 'PC']
+2024-08-11 20:27:58,188 Notification: Sensitive Data detected! - Keyword 'ip_addresses' found in request data: '78.81.146.144'. URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca
+2024-08-11 20:27:58,188 URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca, Reason: Keyword 'ip_addresses' found in request data: '78.81.146.144'
+2024-08-11 20:28:00,206 Notification: Sensitive Data detected! - Keyword 'username' found in request data: 'kilid'. URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca
+2024-08-11 20:28:00,207 URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca, Reason: Keyword 'username' found in request data: 'kilid'
+2024-08-11 20:28:02,215 Notification: Sensitive Data detected! - Keyword 'PC' found in request data: 'PC'. URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca
+2024-08-11 20:28:02,215 URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca, Reason: Keyword 'PC' found in request data: 'PC'
+2024-08-12 22:44:15,967 Loaded active patterns: []
+2024-08-12 22:48:52,292 Loaded active patterns: []
+2024-08-12 22:51:10,691 Loaded active patterns: []
+2024-08-12 22:51:28,605 Loaded active patterns: ['username']
+2024-08-12 22:51:47,652 Notification: Sensitive Data detected! - Keyword 'username' found in request data: 'kilid'. URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca
+2024-08-12 22:51:47,652 URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca, Reason: Keyword 'username' found in request data: 'kilid'
+2024-08-12 22:53:54,452 Loaded active patterns: ['username']
+2024-08-12 22:54:10,641 Notification: Sensitive Data detected! - Keyword 'username' found in request data: 'kilid'. URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca
+2024-08-12 22:54:10,641 URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca, Reason: Keyword 'username' found in request data: 'kilid'
+2024-08-12 22:55:36,879 Notification: Sensitive Data detected! - Keyword 'username' found in request data: 'kilid'. URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca
+2024-08-12 22:55:36,880 URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca, Reason: Keyword 'username' found in request data: 'kilid'
+2024-08-12 22:56:18,645 Notification: Sensitive Data detected! - Keyword 'username' found in request data: 'kilid'. URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca
+2024-08-12 22:56:18,647 URL: https://discord.com/api/webhooks/1230068262663094353/mAVTXdWToZVyFqk46XyI0BguPyNIYsr-GFYbM34u6pfiry06FQPsAhfg-4MJ97bnUlca, Reason: Keyword 'username' found in request data: 'kilid'
